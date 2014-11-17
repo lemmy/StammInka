@@ -169,7 +169,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #C74350;
+		color: #CC0000;
 		text-shadow: none;
 	}
 	
@@ -177,7 +177,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	
 	/* Main Nav */
 	#banner nav {
-		background: #000305;
+		background: #A3A398;
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
@@ -203,7 +203,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #C74451;
+		background: #CC0000;
 		color: #fff;
 		text-shadow: none !important;
 	}
