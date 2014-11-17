@@ -29,4 +29,4 @@ RELATIVE_URLS = True
 
 THEME='themes/notmyidea'
 
-STATIC_PATHS = ['uploads']
+STATIC_PATHS = ['uploads', 'CNAME']
