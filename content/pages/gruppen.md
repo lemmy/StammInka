@@ -18,14 +18,14 @@ Benni (Benjamin Kaiser): 0170/1102242
 Wir sind die Feuerfüchse, die coolste Meute im ganzen Land. 
 
 <div style="float: right; margin:0 10px 10px 0">
-    <img src="uploads/2013/05/DSCF0483-300x168.jpg" alt="Your alt text" title="Title"/>
+    <img src="/uploads/2013/05/DSCF0483-300x168.jpg" alt="Your alt text" title="Title"/>
 </div>
 
 Zusammen spielen, basteln, und toben wir in unserer Villa Kunterbunt umher. Manchmal machen wir auch einfach nur Blödsinn, das finden unsere Gruppenleiter aber meist nicht ganz so cool.
 Aber am Liebsten machen wir im Garten Feuer und backen uns dort Stockbrot und Würstchen.
 
 <div style="float: left; margin:0 10px 10px 0">
-    <img src="uploads/2013/05/IMG_1122-300x199.jpg" alt="Your alt text" title="Title"/>
+    <img src="/uploads/2013/05/IMG_1122-300x199.jpg" alt="Your alt text" title="Title"/>
 </div>
 
 
@@ -34,7 +34,7 @@ Wir Verkleiden uns auch gerne und spielen dann kleine Theatertücke.
 Unser Lieblingsessen ist Eis und Pizza.
 
 <div style="float: right; margin:0 10px 10px 0">
-    <img src="uploads/2013/05/DSCF0430-300x168.jpg" alt="Your alt text" title="Title"/>
+    <img src="/uploads/2013/05/DSCF0430-300x168.jpg" alt="Your alt text" title="Title"/>
 </div>
 
 Aber am allermeisten Spass machst es uns auf Fahrten und Lager zufahren, denn dort erleben wir immer viele Abendteuer und dürfen abends lange wach bleiben und am Feuer singen.
