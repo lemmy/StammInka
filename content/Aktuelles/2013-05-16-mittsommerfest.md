@@ -13,7 +13,7 @@ title: Mittsommerfest 2013
 
 
 <div style="float: right; margin:0 10px 10px 0">
-    <img src="http://stamminka.de/uploads/2013/05/inka-e1368720586261.jpg" alt="Singerunde am Feuerkreis" title="Feuerkreis"/>
+    <img src="uploads/2013/05/inka-e1368720586261.jpg" alt="Inka Kopf" title="Inka Kopf"/>
 </div>
 
 Der Sommer kommt, und er bringt uns Sonnenschein und wilde Feste. Eines davon ist unser Mittsommerfest am Samstag, den 22.6.2013 bei den Inkas in Ahresnburg.
@@ -24,7 +24,7 @@ Am Alten Markt 6 in Ahrensburg
 
 
 <div style="float: left; margin:0 10px 10px 0">
-    <img src="http://stamminka.de/uploads/2013/05/gitarre-e1368720610636.jpg" alt="Gitarre und Affe" title="Gitarre"/>
+    <img src="uploads/2013/05/gitarre-e1368720610636.jpg" alt="Gitarre und Affe" title="Gitarre"/>
 </div>
 
 Wir wollen gemeinsam feiern, singen, tanzen und was immer euch noch so einfällt !!
@@ -33,5 +33,5 @@ Getränke, Essen und Schlafgelegenheit stellt jeder Gast selber. So ergibt sich 
 
 
 <div style="float: center; margin:0 10px 10px 0">
-    <img src="http://stamminka.de/uploads/2013/05/feuerkreis-300x197.gif" alt="Singerunde am Feuerkreis" title="Feuerkreis"/>
+    <img src="uploads/2013/05/feuerkreis-300x197.gif" alt="Singerunde am Feuerkreis" title="Feuerkreis"/>
 </div>
