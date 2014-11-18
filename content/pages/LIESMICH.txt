@@ -1,0 +1,4 @@
+Die Ordnung/Sortierung der Seiten im Menu entsteht über, bei Pelican
+
+* 3.3.x: Über das "Slug:" Attribute im Kopf der Seite
+* 3.5.x: Über den Dateinamen

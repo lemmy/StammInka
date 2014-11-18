@@ -1,5 +1,5 @@
 Title: Fahrten
-Slug: 6Fahrten
+Slug: 30-Fahrten
 
 > Kommt der Frühling zu uns in das Land,
 > nehmt das Ränzel, die Klampfe zur Hand.

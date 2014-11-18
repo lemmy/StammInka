@@ -1,6 +1,5 @@
 Title: Gruppen
-Slug: 5Gruppen
-
+Slug: 20-Gruppen
 Unsere Heimabende, das sind die Gruppenstunden unter der Woche, gestalten sich möglichst vielseitig. Während sich unsere Tätigkeiten im Winter naturgemäß einschränken, beschäftigen wir uns zum Beispiel mit Feuermachen, Singerunden und Geländespielen. Aber wir erlernen auch praktisches Wissen für die Fahrt wie das Aufbauen der Kohte. Aber natürlich spielen, toben und machen wir auch mal einfach worauf wir gerade Lust haben.
 
 ***

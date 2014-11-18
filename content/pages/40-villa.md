@@ -1,5 +1,5 @@
 Title: Villa Kunterbunt
-Slug: 7Villa
+Slug: 40-Villa
 
 Die Villa Kunterbunt befindet sich mitten in Ahrensburg, direkt gegenüber von der Schlosskirche.
 Es ist eine prachtvolle Gründerzeitvilla aus dem Jahre 1907.

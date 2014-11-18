@@ -1,5 +1,5 @@
 Title: Kontakt
-Slug: 9Kontakt
+Slug: 50-Kontak
 
 Unsere wöchentlichen Gruppenstunden finden Dienstags (nicht während der Schulferien) von 17:00 bis 18:30 Uhr und von 17:30 bis 19:00 Uhr in unserem Heim statt. Bei Interesse an unserer Arbeit kommen sie einnfach mit ihrem Kind vorbei oder melden Sie sich bei unserer Stammesführung.
 
